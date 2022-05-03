@@ -1,6 +1,6 @@
 Model Information:
-* title:	Teste
-* source:	https://sketchfab.com/3d-models/teste-4ca8826537da4bffb3a48540e70e2eb8
+* title:	Boston
+* source:	https://sketchfab.com/3d-models/boston-0f9837d6e8db4c47b4626dd39f21bca2
 * author:	WitchLord (https://sketchfab.com/WitchLord)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Teste" (https://sketchfab.com/3d-models/teste-4ca8826537da4bffb3a48540e70e2eb8) by WitchLord (https://sketchfab.com/WitchLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Boston" (https://sketchfab.com/3d-models/boston-0f9837d6e8db4c47b4626dd39f21bca2) by WitchLord (https://sketchfab.com/WitchLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
