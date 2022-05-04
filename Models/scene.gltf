@@ -227,14 +227,14 @@
       "componentType": 5126,
       "count": 559,
       "max": [
-        5.155113697052002,
-        5.155113697052002,
-        5.155113697052002
+        7.874015808105469,
+        7.874015808105469,
+        7.874015808105469
       ],
       "min": [
-        -5.155113697052002,
-        -5.155113697052002,
-        -5.155113697052002
+        -7.874015808105469,
+        -7.874015808105469,
+        -7.874015808105469
       ],
       "type": "VEC3"
     },
@@ -440,12 +440,12 @@
       "componentType": 5126,
       "count": 25,
       "max": [
-        0.6687395572662354,
-        0.9371844530105591
+        1.0,
+        1.0
       ],
       "min": [
-        0.3312605917453766,
-        0.5506184697151184
+        0.0,
+        0.0
       ],
       "type": "VEC2"
     },
@@ -455,12 +455,12 @@
       "componentType": 5126,
       "count": 25,
       "max": [
-        0.6687395572662354,
-        0.9371844530105591
+        1.0,
+        1.0
       ],
       "min": [
-        0.3312605917453766,
-        0.5506184697151184
+        0.0,
+        0.0
       ],
       "type": "VEC2"
     },
@@ -478,12 +478,12 @@
       "count": 25,
       "max": [
         70.0,
-        10.0,
+        9.842519760131836,
         0.0
       ],
       "min": [
         -70.0,
-        -10.0,
+        -9.842519760131836,
         0.0
       ],
       "type": "VEC3"
@@ -521,51 +521,10 @@
       "type": "VEC2"
     },
     {
-      "bufferView": 0,
-      "byteOffset": 193296,
-      "componentType": 5125,
-      "count": 96,
-      "type": "SCALAR"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 346056,
-      "componentType": 5126,
-      "count": 4,
-      "max": [
-        1.0,
-        1.0,
-        0.0
-      ],
-      "min": [
-        -1.0,
-        -1.0,
-        0.0
-      ],
-      "type": "VEC3"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 346104,
-      "componentType": 5126,
-      "count": 4,
-      "max": [
-        0.0,
-        0.0,
-        1.0
-      ],
-      "min": [
-        0.0,
-        0.0,
-        1.0
-      ],
-      "type": "VEC3"
-    },
-    {
       "bufferView": 1,
       "byteOffset": 22384,
       "componentType": 5126,
-      "count": 4,
+      "count": 25,
       "max": [
         1.0,
         1.0
@@ -578,9 +537,106 @@
     },
     {
       "bufferView": 0,
+      "byteOffset": 193296,
+      "componentType": 5125,
+      "count": 96,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 346056,
+      "componentType": 5126,
+      "count": 40608,
+      "max": [
+        8.592354774475098,
+        4.844472885131836,
+        5.87899923324585
+      ],
+      "min": [
+        -8.59021282196045,
+        -4.766297340393066,
+        -5.814017295837402
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 833352,
+      "componentType": 5126,
+      "count": 40608,
+      "max": [
+        0.8660392761230469,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.8660585880279541,
+        -0.9999996423721313,
+        -0.9999999403953552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 22584,
+      "componentType": 5126,
+      "count": 40608,
+      "max": [
+        0.08010867238044739,
+        0.9760205149650574
+      ],
+      "min": [
+        -0.07978050410747528,
+        0.006626000162214041
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
       "byteOffset": 193680,
       "componentType": 5125,
-      "count": 6,
+      "count": 60912,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1320648,
+      "componentType": 5126,
+      "count": 15808,
+      "max": [
+        6.802184104919434,
+        8.632299423217773,
+        5.453158378601074
+      ],
+      "min": [
+        -6.700028419494629,
+        -8.515093803405762,
+        -5.291238784790039
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1510344,
+      "componentType": 5126,
+      "count": 15808,
+      "max": [
+        0.7071343660354614,
+        0.9032831192016602,
+        0.8938539028167725
+      ],
+      "min": [
+        -0.7071850895881653,
+        -0.9032835960388184,
+        -0.8938397169113159
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 437328,
+      "componentType": 5125,
+      "count": 23712,
       "type": "SCALAR"
     },
     {
@@ -601,13 +657,13 @@
       "count": 100,
       "max": [
         19.70003318786621,
-        137.92593383789063,
+        163.14060974121094,
         58.71076583862305
       ],
       "min": [
         -19.70028305053711,
-        26.951431274414063,
-        -58.701290130615234
+        52.0822868347168,
+        -58.7012825012207
       ],
       "type": "VEC3"
     },
@@ -662,13 +718,13 @@
       "count": 100,
       "max": [
         64.50038146972656,
-        146.07838439941406,
-        -2.4332598513865378e-06
+        171.20921325683594,
+        -1.3347555523068877e-06
       ],
       "min": [
         -64.48831176757813,
-        17.314607620239258,
-        -2.4332598513865378e-06
+        42.445457458496094,
+        -1.3347555523068877e-06
       ],
       "type": "VEC3"
     },
@@ -724,12 +780,12 @@
       "count": 100,
       "max": [
         64.23328399658203,
-        99.66102600097656,
+        124.7918701171875,
         62.45277404785156
       ],
       "min": [
         -64.23334503173828,
-        65.29328918457031,
+        90.36893463134766,
         -62.42769241333008
       ],
       "type": "VEC3"
@@ -786,12 +842,12 @@
       "count": 100,
       "max": [
         58.723045349121094,
-        120.41439056396484,
+        145.54522705078125,
         44.35282897949219
       ],
       "min": [
         -58.729244232177734,
-        43.06596374511719,
+        68.19680786132813,
         -44.35274887084961
       ],
       "type": "VEC3"
@@ -1045,6 +1101,70 @@
         1.0
       ],
       "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3964,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        3.3333332538604736
+      ],
+      "min": [
+        0.03333333507180214
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 8368,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        -0.23619282245635986,
+        0.7621839642524719,
+        0.39676785469055176,
+        0.8870108723640442
+      ],
+      "min": [
+        -0.46174854040145874,
+        -0.0,
+        0.0,
+        0.45372214913368225
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4364,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        3.3333332538604736
+      ],
+      "min": [
+        0.03333333507180214
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 9968,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.9063078165054321,
+        0.36376529932022095,
+        0.780097246170044,
+        0.2956900894641876
+      ],
+      "min": [
+        -0.6341105699539185,
+        -0.29883620142936707,
+        -0.6408563256263733,
+        -0.42261824011802673
+      ],
+      "type": "VEC4"
     }
   ],
   "animations": [
@@ -1154,20 +1274,24 @@
             "node": 18,
             "path": "rotation"
           }
+        },
+        {
+          "sampler": 15,
+          "target": {
+            "node": 30,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 16,
+          "target": {
+            "node": 32,
+            "path": "rotation"
+          }
         }
       ],
       "name": "Scene",
       "samplers": [
-        {
-          "input": 42,
-          "interpolation": "LINEAR",
-          "output": 43
-        },
-        {
-          "input": 44,
-          "interpolation": "LINEAR",
-          "output": 45
-        },
         {
           "input": 46,
           "interpolation": "LINEAR",
@@ -1232,6 +1356,26 @@
           "input": 70,
           "interpolation": "LINEAR",
           "output": 71
+        },
+        {
+          "input": 72,
+          "interpolation": "LINEAR",
+          "output": 73
+        },
+        {
+          "input": 74,
+          "interpolation": "LINEAR",
+          "output": 75
+        },
+        {
+          "input": 76,
+          "interpolation": "LINEAR",
+          "output": 77
+        },
+        {
+          "input": 78,
+          "interpolation": "LINEAR",
+          "output": 79
         }
       ]
     }
@@ -1240,8 +1384,8 @@
     "extras": {
       "author": "WitchLord (https://sketchfab.com/WitchLord)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/boston-b3d072ba3b4c4a448ef28919032697cd",
-      "title": "Boston"
+      "source": "https://sketchfab.com/3d-models/bostonv3-8f7660c068eb4fe59465f1627a2013ff",
+      "title": "BostonV3"
     },
     "generator": "Sketchfab-13.14.0",
     "version": "2.0"
@@ -1249,79 +1393,111 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 193704,
+      "byteLength": 532176,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 22416,
-      "byteOffset": 193704,
+      "byteLength": 347448,
+      "byteOffset": 532176,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 346152,
-      "byteOffset": 216120,
+      "byteLength": 1700040,
+      "byteOffset": 879624,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 3964,
-      "byteOffset": 562272,
+      "byteLength": 4764,
+      "byteOffset": 2579664,
       "name": "floatBufferViews"
     },
     {
       "buffer": 0,
       "byteLength": 5616,
-      "byteOffset": 566236,
+      "byteOffset": 2584428,
       "byteStride": 12,
       "name": "floatBufferViews"
     },
     {
       "buffer": 0,
-      "byteLength": 8368,
-      "byteOffset": 571852,
+      "byteLength": 11568,
+      "byteOffset": 2590044,
       "byteStride": 16,
       "name": "floatBufferViews"
     }
   ],
   "buffers": [
     {
-      "byteLength": 580220,
+      "byteLength": 2601612,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Material_4_baseColor.jpeg"
+      "uri": "textures/Material_4.001_baseColor.jpeg"
     },
     {
-      "uri": "textures/Material_2_baseColor.jpeg"
+      "uri": "textures/tira_texto.001_baseColor.jpeg"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
       "emissiveFactor": [
-        0.0,
-        0.65098,
-        0.945098
+        0.00784314,
+        0.678431,
+        0.988235
       ],
-      "name": "Material_3",
+      "name": "giros.001",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.0,
-          0.65098,
-          0.952941,
+          0.435294,
+          0.215686,
+          1.0,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.936450765337278
+        "roughnessFactor": 0.9620640395400246
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0,
+        0.447059,
+        1.0
+      ],
+      "name": "sphera.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.745098,
+          0.933333,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9286141882268717
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.552941,
+        0.552941,
+        0.552941
+      ],
+      "name": "Material_3.001",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8810792884997279
       }
     },
     {
@@ -1334,7 +1510,7 @@
       "emissiveTexture": {
         "index": 0
       },
-      "name": "Material_4",
+      "name": "Material_4.001",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
@@ -1345,19 +1521,27 @@
     },
     {
       "doubleSided": true,
-      "name": "Material_2",
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "name": "tira_texto.001",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 1
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.9310779751599804
+        "roughnessFactor": 0.93007462163784
       }
     }
   ],
   "meshes": [
     {
-      "name": "Arco1_Material #3_0",
+      "name": "Cylinder011_giros.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1372,7 +1556,7 @@
       ]
     },
     {
-      "name": "Arco2_Material #3_0",
+      "name": "Cylinder012_giros.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1387,7 +1571,7 @@
       ]
     },
     {
-      "name": "Arco3_Material #3_0",
+      "name": "Cylinder013_giros.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1402,7 +1586,7 @@
       ]
     },
     {
-      "name": "Arco4_Material #3_0",
+      "name": "Cylinder014_giros.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1417,7 +1601,7 @@
       ]
     },
     {
-      "name": "Esfera_Material #3_0",
+      "name": "Sphere003_sphera.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1426,13 +1610,13 @@
             "TEXCOORD_0": 18
           },
           "indices": 19,
-          "material": 0,
+          "material": 1,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Texto1_Material #3_0",
+      "name": "Text001_Material #3.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1440,13 +1624,13 @@
             "POSITION": 20
           },
           "indices": 22,
-          "material": 0,
+          "material": 2,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Texto2_Material #3_0",
+      "name": "Text002_Material #3.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1454,13 +1638,13 @@
             "POSITION": 23
           },
           "indices": 25,
-          "material": 0,
+          "material": 2,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Texto3_Material #3_0",
+      "name": "Text003_Material #3.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1468,13 +1652,13 @@
             "POSITION": 26
           },
           "indices": 28,
-          "material": 0,
+          "material": 2,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Plane003_Material #4_0",
+      "name": "Plane003_Material #4.001_0",
       "primitives": [
         {
           "attributes": {
@@ -1484,37 +1668,52 @@
             "TEXCOORD_1": 32
           },
           "indices": 33,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane004_tira_texto.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 35,
+            "POSITION": 34,
+            "TEXCOORD_0": 36,
+            "TEXCOORD_1": 37
+          },
+          "indices": 38,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Circulatory_Heart_sphera.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 40,
+            "POSITION": 39,
+            "TEXCOORD_0": 41
+          },
+          "indices": 42,
           "material": 1,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Plane004_Material #3_0",
+      "name": "Nervous_Cerebrum_Multicolor_giros.001_0",
       "primitives": [
         {
           "attributes": {
-            "NORMAL": 35,
-            "POSITION": 34,
-            "TEXCOORD_0": 36
+            "NORMAL": 44,
+            "POSITION": 43
           },
-          "indices": 37,
+          "indices": 45,
           "material": 0,
-          "mode": 4
-        }
-      ]
-    },
-    {
-      "name": "Plane_Material #2_0",
-      "primitives": [
-        {
-          "attributes": {
-            "NORMAL": 39,
-            "POSITION": 38,
-            "TEXCOORD_0": 40
-          },
-          "indices": 41,
-          "material": 2,
           "mode": 4
         }
       ]
@@ -1567,7 +1766,7 @@
         0.0,
         1.0
       ],
-      "name": "b5d8c4ae8ad644acbf48ab1bfa2cda08.fbx"
+      "name": "f50d70c4e63d4decaa886fed9222c972.fbx"
     },
     {
       "children": [
@@ -1586,8 +1785,11 @@
         16,
         18,
         20,
-        22,
-        24
+        23,
+        25,
+        27,
+        30,
+        32
       ],
       "name": "RootNode"
     },
@@ -1595,7 +1797,7 @@
       "children": [
         5
       ],
-      "name": "Arco1",
+      "name": "Cylinder011",
       "rotation": [
         -0.4571205675601959,
         -0.6124871373176575,
@@ -1609,19 +1811,19 @@
       ],
       "translation": [
         -0.08047549426555634,
-        72.64402770996094,
-        -57.996070861816406
+        97.77487182617188,
+        -57.996063232421875
       ]
     },
     {
       "mesh": 0,
-      "name": "Arco1_Material #3_0"
+      "name": "Cylinder011_giros.001_0"
     },
     {
       "children": [
         7
       ],
-      "name": "Arco2",
+      "name": "Cylinder012",
       "rotation": [
         0.6963642835617065,
         0.12278801202774048,
@@ -1635,19 +1837,19 @@
       ],
       "translation": [
         -60.37308120727539,
-        59.07402801513672,
-        -2.4332598513865378e-06
+        84.20487213134766,
+        -1.3347555523068877e-06
       ]
     },
     {
       "mesh": 1,
-      "name": "Arco2_Material #3_0"
+      "name": "Cylinder012_giros.001_0"
     },
     {
       "children": [
         9
       ],
-      "name": "Arco3",
+      "name": "Cylinder013",
       "rotation": [
         0.08242626488208771,
         0.9459016919136047,
@@ -1661,19 +1863,19 @@
       ],
       "translation": [
         52.821495056152344,
-        68.46388244628906,
+        93.5947265625,
         34.288291931152344
       ]
     },
     {
       "mesh": 2,
-      "name": "Arco3_Material #3_0"
+      "name": "Cylinder013_giros.001_0"
     },
     {
       "children": [
         11
       ],
-      "name": "Arco4",
+      "name": "Cylinder014",
       "rotation": [
         -0.6329086422920227,
         -0.27824729681015015,
@@ -1687,19 +1889,19 @@
       ],
       "translation": [
         5.565169334411621,
-        43.52999496459961,
-        44.30833053588867
+        68.66085052490234,
+        44.3083381652832
       ]
     },
     {
       "mesh": 3,
-      "name": "Arco4_Material #3_0"
+      "name": "Cylinder014_giros.001_0"
     },
     {
       "children": [
         13
       ],
-      "name": "Esfera",
+      "name": "Sphere003",
       "rotation": [
         -0.26703396439552307,
         0.654746413230896,
@@ -1713,19 +1915,19 @@
       ],
       "translation": [
         0.0,
-        82.48139953613281,
-        0.0
+        107.61225128173828,
+        1.09850429907965e-06
       ]
     },
     {
       "mesh": 4,
-      "name": "Esfera_Material #3_0"
+      "name": "Sphere003_sphera.001_0"
     },
     {
       "children": [
         15
       ],
-      "name": "Texto1",
+      "name": "Text001",
       "rotation": [
         8.146034957690063e-08,
         0.0,
@@ -1739,19 +1941,19 @@
       ],
       "translation": [
         -103.7480697631836,
-        32.533966064453125,
-        84.89308166503906
+        56.41400146484375,
+        127.54302215576172
       ]
     },
     {
       "mesh": 5,
-      "name": "Texto1_Material #3_0"
+      "name": "Text001_Material #3.001_0"
     },
     {
       "children": [
         17
       ],
-      "name": "Texto2",
+      "name": "Text002",
       "rotation": [
         8.146034957690063e-08,
         0.0,
@@ -1764,20 +1966,20 @@
         0.02539999783039093
       ],
       "translation": [
-        4.409345626831055,
-        32.63396453857422,
-        84.16831970214844
+        13.542285919189453,
+        56.513999938964844,
+        126.81825256347656
       ]
     },
     {
       "mesh": 6,
-      "name": "Texto2_Material #3_0"
+      "name": "Text002_Material #3.001_0"
     },
     {
       "children": [
         19
       ],
-      "name": "Texto3",
+      "name": "Text003",
       "rotation": [
         8.146034957690063e-08,
         0.0,
@@ -1790,18 +1992,67 @@
         0.02539999783039093
       ],
       "translation": [
-        100.46143341064453,
-        30.30895233154297,
-        84.16831970214844
+        111.45301055908203,
+        54.18899154663086,
+        126.81825256347656
       ]
     },
     {
       "mesh": 7,
-      "name": "Texto3_Material #3_0"
+      "name": "Text003_Material #3.001_0"
     },
     {
       "children": [
         21
+      ],
+      "name": "Omni001",
+      "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        4.371138828673793e-08
+      ],
+      "scale": [
+        2.5399999618530273,
+        2.5399999618530273,
+        2.5399999618530273
+      ],
+      "translation": [
+        83.94636535644531,
+        150.16700744628906,
+        124.1601333618164
+      ]
+    },
+    {
+      "children": [
+        22
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_21"
+    },
+    {
+      "name": "Object_22"
+    },
+    {
+      "children": [
+        24
       ],
       "name": "Plane003",
       "rotation": [
@@ -1818,11 +2069,11 @@
     },
     {
       "mesh": 8,
-      "name": "Plane003_Material #4_0"
+      "name": "Plane003_Material #4.001_0"
     },
     {
       "children": [
-        23
+        26
       ],
       "name": "Plane004",
       "rotation": [
@@ -1844,33 +2095,108 @@
     },
     {
       "mesh": 9,
-      "name": "Plane004_Material #3_0"
+      "name": "Plane004_tira_texto.001_0"
     },
     {
       "children": [
-        25
+        28
       ],
-      "name": "Plane",
+      "name": "Omni003",
       "rotation": [
-        2.1855694143368964e-08,
+        1.0,
+        0.0,
+        0.0,
+        4.371138828673793e-08
+      ],
+      "scale": [
+        2.5399999618530273,
+        2.5399999618530273,
+        2.5399999618530273
+      ],
+      "translation": [
+        83.94636535644531,
+        150.16700744628906,
+        -137.72250366210938
+      ]
+    },
+    {
+      "children": [
+        29
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
         0.0,
         0.0,
         1.0
       ],
+      "name": "Object_28"
+    },
+    {
+      "name": "Object_29"
+    },
+    {
+      "children": [
+        31
+      ],
+      "name": "Circulatory_Heart",
+      "rotation": [
+        -0.46174854040145874,
+        -0.0,
+        0.0,
+        0.8870108723640442
+      ],
       "scale": [
-        179.0,
-        99.99999237060547,
-        99.99999237060547
+        7.99553918838501,
+        7.995538234710693,
+        7.995538234710693
       ],
       "translation": [
-        -1.402752161026001,
-        99.31890106201172,
-        -174.21327209472656
+        127.55487823486328,
+        79.50141143798828,
+        -20.439638137817383
       ]
     },
     {
       "mesh": 10,
-      "name": "Plane_Material #2_0"
+      "name": "Circulatory_Heart_sphera.001_0"
+    },
+    {
+      "children": [
+        33
+      ],
+      "name": "Nervous_Cerebrum_Multicolor",
+      "rotation": [
+        0.9063078165054321,
+        0.0,
+        0.0,
+        -0.42261824011802673
+      ],
+      "scale": [
+        5.415215969085693,
+        5.415216445922852,
+        5.415216445922852
+      ],
+      "translation": [
+        -126.39423370361328,
+        83.31891632080078,
+        0.0
+      ]
+    },
+    {
+      "mesh": 11,
+      "name": "Nervous_Cerebrum_Multicolor_giros.001_0"
     }
   ],
   "samplers": [

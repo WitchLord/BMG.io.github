@@ -1,6 +1,6 @@
 Model Information:
-* title:	Boston
-* source:	https://sketchfab.com/3d-models/boston-b3d072ba3b4c4a448ef28919032697cd
+* title:	BostonV3
+* source:	https://sketchfab.com/3d-models/bostonv3-8f7660c068eb4fe59465f1627a2013ff
 * author:	WitchLord (https://sketchfab.com/WitchLord)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Boston" (https://sketchfab.com/3d-models/boston-b3d072ba3b4c4a448ef28919032697cd) by WitchLord (https://sketchfab.com/WitchLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "BostonV3" (https://sketchfab.com/3d-models/bostonv3-8f7660c068eb4fe59465f1627a2013ff) by WitchLord (https://sketchfab.com/WitchLord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
